@@ -1,0 +1,22 @@
+﻿<Window x:Name="thongke" x:Class="CapNhatThuoc.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CapNhatThuoc"
+        mc:Ignorable="d"
+        Title="Window1" Height="600" Width="800" Loaded="thongke_Loaded">
+    <Grid>
+        <DataGrid x:Name="dtthuoc" Height="450" Width="700" AutoGenerateColumns="False" AlternatingRowBackground="AntiqueWhite" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã thuốc" Binding="{Binding MaThuoc}" Width="90"/>
+                <DataGridTextColumn Header="Tên thuốc" Binding="{Binding TenThuoc}" Width="150"/>
+                <DataGridTextColumn Header="Loại thuốc" Binding="{Binding LoaiThuoc}" Width="90"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}" Width="120"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding SoLuong}" Width="95"/>
+                <DataGridTextColumn Header="Thành tiền" Binding="{Binding ThanhTien}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

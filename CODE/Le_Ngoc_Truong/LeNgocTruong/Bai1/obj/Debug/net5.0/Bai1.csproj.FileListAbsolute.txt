@@ -1,0 +1,16 @@
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\bin\Debug\net5.0\Bai1.exe
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\bin\Debug\net5.0\Bai1.deps.json
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.json
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.dev.json
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\bin\Debug\net5.0\Bai1.dll
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\bin\Debug\net5.0\ref\Bai1.dll
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\bin\Debug\net5.0\Bai1.pdb
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\Bai1.csproj.AssemblyReference.cache
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfoInputs.cache
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfo.cs
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\Bai1.csproj.CoreCompileInputs.cache
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\Bai1.dll
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\ref\Bai1.dll
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\Bai1.pdb
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai1\obj\Debug\net5.0\Bai1.genruntimeconfig.cache

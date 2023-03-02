@@ -1,0 +1,11 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\bin\Debug\VD_listView.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\bin\Debug\VD_listView.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\bin\Debug\VD_listView.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\obj\Debug\VD_listView.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\obj\Debug\VD_listView.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\obj\Debug\VD_listView.Form1.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\obj\Debug\VD_listView.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\obj\Debug\VD_listView.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\obj\Debug\VD_listView.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\obj\Debug\VD_listView.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_listView\obj\Debug\VD_listView.pdb

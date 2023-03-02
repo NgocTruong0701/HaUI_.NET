@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\bin\Debug\net5.0\DanhSach.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\bin\Debug\net5.0\DanhSach.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\bin\Debug\net5.0\DanhSach.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\bin\Debug\net5.0\DanhSach.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\bin\Debug\net5.0\DanhSach.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\bin\Debug\net5.0\DanhSach.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\DanhSach.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\DanhSach.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\DanhSach.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\DanhSach.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\DanhSach.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\refint\DanhSach.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\DanhSach.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\DanhSach.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_Before\Bai4\obj\Debug\net5.0\ref\DanhSach.dll

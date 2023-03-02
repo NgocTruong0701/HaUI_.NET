@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\bin\Debug\net5.0\Bai_2.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\bin\Debug\net5.0\Bai_2.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\bin\Debug\net5.0\Bai_2.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\bin\Debug\net5.0\Bai_2.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\bin\Debug\net5.0\Bai_2.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\bin\Debug\net5.0\Bai_2.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\Bai_2.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\Bai_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\Bai_2.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\Bai_2.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\Bai_2.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\Bai_2.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\refint\Bai_2.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\Bai_2.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\Bai_2.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\BTVN_Buoi_1\Bai_2\obj\Debug\net5.0\ref\Bai_2.dll

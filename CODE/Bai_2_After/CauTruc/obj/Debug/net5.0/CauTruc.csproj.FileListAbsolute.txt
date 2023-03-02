@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\bin\Debug\net5.0\CauTruc.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\bin\Debug\net5.0\CauTruc.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\bin\Debug\net5.0\CauTruc.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\bin\Debug\net5.0\CauTruc.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\CauTruc.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\CauTruc.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\CauTruc.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\refint\CauTruc.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\CauTruc.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\CauTruc.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\CauTruc\obj\Debug\net5.0\ref\CauTruc.dll

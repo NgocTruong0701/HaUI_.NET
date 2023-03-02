@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VD_Setter/1.0.0": {
+        "runtime": {
+          "VD_Setter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VD_Setter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

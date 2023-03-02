@@ -1,0 +1,32 @@
+﻿<Window x:Class="OnTap2.ThongKe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnTap2"
+        mc:Ignorable="d"
+        Title="ThongKe" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.Resources>
+            <!--Style of DataGrid-->
+            <Style TargetType="DataGridColumnHeader">
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                <Setter Property="FontSize" Value="14"/>
+            </Style>
+        </Grid.Resources>
+        <DataGrid
+            Name="dgv_DS"
+            AutoGenerateColumns="False"
+            CanUserAddRows="False"
+            AlternatingRowBackground="AntiqueWhite"
+            Margin="31,86,31,85">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã phòng" Binding="{Binding MaPhong}" Width="150"/>
+                <DataGridTextColumn Header="Tên phòng" Binding="{Binding TenPhong}" Width="170"/>
+                <DataGridTextColumn Header="Số lượng nhân viên" Binding="{Binding CountEmp}" Width="150"/>
+                <DataGridTextColumn Header="Tổng lương" Binding="{Binding SumSalary}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

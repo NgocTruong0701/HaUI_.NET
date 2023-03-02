@@ -1,0 +1,8 @@
+E:\LeNgocTruong\VN_GiaiPT\bin\Debug\VN_GiaiPT.exe.config
+E:\LeNgocTruong\VN_GiaiPT\bin\Debug\VN_GiaiPT.exe
+E:\LeNgocTruong\VN_GiaiPT\bin\Debug\VN_GiaiPT.pdb
+E:\LeNgocTruong\VN_GiaiPT\obj\Debug\VN_GiaiPT.Form_GiaiPT.resources
+E:\LeNgocTruong\VN_GiaiPT\obj\Debug\VN_GiaiPT.Properties.Resources.resources
+E:\LeNgocTruong\VN_GiaiPT\obj\Debug\VN_GiaiPT.csproj.GenerateResource.Cache
+E:\LeNgocTruong\VN_GiaiPT\obj\Debug\VN_GiaiPT.exe
+E:\LeNgocTruong\VN_GiaiPT\obj\Debug\VN_GiaiPT.pdb

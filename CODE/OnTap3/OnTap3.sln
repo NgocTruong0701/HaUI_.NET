@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTap3", "OnTap3\OnTap3.csproj", "{C2D6C20A-076E-4257-BDF3-7451C2C6667A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D6C20A-076E-4257-BDF3-7451C2C6667A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D6C20A-076E-4257-BDF3-7451C2C6667A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D6C20A-076E-4257-BDF3-7451C2C6667A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D6C20A-076E-4257-BDF3-7451C2C6667A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A042AAB9-6292-4922-8F37-49E3DF47BCBC}
+	EndGlobalSection
+EndGlobal

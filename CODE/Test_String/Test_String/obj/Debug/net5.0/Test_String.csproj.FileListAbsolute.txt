@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\bin\Debug\net5.0\Test_String.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\bin\Debug\net5.0\Test_String.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\bin\Debug\net5.0\Test_String.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\bin\Debug\net5.0\Test_String.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\bin\Debug\net5.0\Test_String.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\bin\Debug\net5.0\Test_String.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\Test_String.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\Test_String.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\Test_String.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\Test_String.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\Test_String.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\Test_String.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\refint\Test_String.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\Test_String.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\Test_String.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_String\Test_String\obj\Debug\net5.0\ref\Test_String.dll

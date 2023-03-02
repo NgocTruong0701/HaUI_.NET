@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\bin\Debug\net5.0\TongHop.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\bin\Debug\net5.0\TongHop.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\bin\Debug\net5.0\TongHop.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\bin\Debug\net5.0\TongHop.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\bin\Debug\net5.0\TongHop.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\bin\Debug\net5.0\TongHop.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\TongHop.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\TongHop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\TongHop.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\TongHop.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\TongHop.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\TongHop.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\refint\TongHop.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\TongHop.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\TongHop.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\TongHop\TongHop\obj\Debug\net5.0\ref\TongHop.dll

@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\TapTin.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\TapTin.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\TapTin.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\TapTin.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\bin\Debug\net5.0\TapTin.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\bin\Debug\net5.0\TapTin.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\bin\Debug\net5.0\TapTin.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\bin\Debug\net5.0\TapTin.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\bin\Debug\net5.0\TapTin.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\bin\Debug\net5.0\TapTin.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\TapTin.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\refint\TapTin.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\TapTin.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\TapTin.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\TapTin\obj\Debug\net5.0\ref\TapTin.dll

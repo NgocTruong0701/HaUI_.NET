@@ -1,0 +1,41 @@
+﻿<Window x:Class="Template.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Template"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--Khai bao tai nguyen trong Grid-->
+        <Grid.Resources>
+            <!--ControlTemplate dùng để định lại cấu trúc hiển thị cho điều khiển UI;
+            và DataTemplate dùng để định ra cách thức hiển thị dữ liệu-->
+
+            <!--ControlTemplate-->
+            <Style TargetType="Button">
+                <!--Đặt giá trị true để không sử dụng bất kì giá trị thuộc tính nào
+                của theme hệ thống-->
+                <Setter Property="OverridesDefaultStyle" Value="True"/>
+                <!--Thiết lập khuôn dạng mẫu cho điều khiển button-->
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Grid>
+                                <!--Kiểu button va màu của button đó-->
+                                <Ellipse Fill="Navy"/>
+                                <!--Đánh dấu nơi bắt đầu đặt nội dung của button là chính giữa-->
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                <!--ContentPresenter la ghi de noi dung len-->
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </Grid.Resources>
+        <!--KEt thuc khai bao tai nguyen-->
+
+        <!--Khai bao phan tu giao dien-->
+        <Button Foreground="White" Content="Hello" HorizontalAlignment="Left" Height="65" Margin="323,168,0,0" VerticalAlignment="Top" Width="120" />
+    </Grid>
+</Window>

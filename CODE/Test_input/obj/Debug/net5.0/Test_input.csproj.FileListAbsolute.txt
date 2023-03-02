@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\bin\Debug\net5.0\Test_input.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\bin\Debug\net5.0\Test_input.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\bin\Debug\net5.0\Test_input.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\bin\Debug\net5.0\Test_input.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\bin\Debug\net5.0\Test_input.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\bin\Debug\net5.0\ref\Test_input.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\bin\Debug\net5.0\Test_input.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\Test_input.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\Test_input.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\Test_input.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\Test_input.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\Test_input.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\Test_input.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\ref\Test_input.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\Test_input.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Test_input\obj\Debug\net5.0\Test_input.genruntimeconfig.cache

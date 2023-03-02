@@ -1,0 +1,11 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\obj\Debug\ToolTip_HelpProvider_ ErrorProvider.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\obj\Debug\ToolTip_HelpProvider_ ErrorProvider.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\obj\Debug\ToolTip_HelpProvider__ErrorProvider.frm_DangNhap.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\obj\Debug\ToolTip_HelpProvider__ErrorProvider.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\obj\Debug\ToolTip_HelpProvider_ ErrorProvider.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\obj\Debug\ToolTip_HelpProvider_ ErrorProvider.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\bin\Debug\ToolTip_HelpProvider_ ErrorProvider.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\bin\Debug\ToolTip_HelpProvider_ ErrorProvider.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\bin\Debug\ToolTip_HelpProvider_ ErrorProvider.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\obj\Debug\ToolTip_HelpProvider_ ErrorProvider.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\ToolTip_HelpProvider_ ErrorProvider\obj\Debug\ToolTip_HelpProvider_ ErrorProvider.pdb

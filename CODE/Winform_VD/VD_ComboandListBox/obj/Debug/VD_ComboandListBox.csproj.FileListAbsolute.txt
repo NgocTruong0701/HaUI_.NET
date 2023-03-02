@@ -1,0 +1,11 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\bin\Debug\VD_ComboandListBox.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\bin\Debug\VD_ComboandListBox.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\bin\Debug\VD_ComboandListBox.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\obj\Debug\VD_ComboandListBox.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\obj\Debug\VD_ComboandListBox.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\obj\Debug\VD_ComboandListBox.Form1.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\obj\Debug\VD_ComboandListBox.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\obj\Debug\VD_ComboandListBox.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\obj\Debug\VD_ComboandListBox.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\obj\Debug\VD_ComboandListBox.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ComboandListBox\obj\Debug\VD_ComboandListBox.pdb

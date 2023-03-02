@@ -1,0 +1,79 @@
+﻿<Window x:Class="WPF_OnTap1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_OnTap1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontFamily="Times New Roman" Loaded="Window_Loaded">
+    <Grid>
+        <!--Khai bao nguon-->
+        <Grid.Resources>
+           <!--Style quy dinh kieu font chu va mau chu cua textbox-->
+            <Style TargetType="TextBox">
+                <Setter Property="FontFamily" Value="Times New Roman"/>
+                <Setter Property="Foreground" Value="Blue"/>
+            </Style>
+            
+            <!--Style quy dinh datagrid-->
+            <Style TargetType="DataGridColumnHeader">
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            </Style>
+            
+            <!--Style Template quy dinh hinh dang mau cua button-->
+            <Style TargetType="Button">
+                <!--Cho phep ghi de len thuoc tinh mac dinh cua button-->
+                <Setter Property="OverridesDefaultStyle" Value="True"/>
+                <!--Setter cho co chu content-->
+                <Setter Property="FontSize" Value="20"/>
+                <!--Setter cho kich thuc chu-->
+                <Setter Property="FontWeight" Value="Bold"/>
+                <!--Setter template de quy dinh hinh dang-->
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <!--Dung control template de quy dinh kieu (targettype) button-->
+                        <ControlTemplate TargetType="Button">
+                            <!--Dung kieu trinh bay Grid-->
+                            <Grid>
+                                <!--Ellipes va mau xam-->
+                                <Ellipse Fill="Gray"/>
+                                <!--Content ghi tren button can giua-->
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </Grid.Resources>
+        <!--Label-->
+        <Label Content="Mã bệnh nhân:" HorizontalAlignment="Left" Margin="31,25,0,0" VerticalAlignment="Top"/>
+        <Label Content="Họ tên:" HorizontalAlignment="Left" Margin="31,55,0,0" VerticalAlignment="Top"/>
+        <Label Content="Số ngày nằm viện:" HorizontalAlignment="Left" Margin="31,85,0,0" VerticalAlignment="Top"/>
+        <Label Content="Khoa khám:" HorizontalAlignment="Left" Margin="31,115,0,0" VerticalAlignment="Top"/>
+        <!--TextBox-->
+        <TextBox Name="txt_MaBN" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="196,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204" Height="24"/>
+        <TextBox x:Name="txt_HoTen" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="196,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="284" Height="24"/>
+        <TextBox x:Name="txt_SoNgayNV" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="196,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" Height="24"/>
+        <!--ComboBox-->
+        <ComboBox Name="cbo_Khoa" HorizontalAlignment="Left" Margin="196,117,0,0" VerticalAlignment="Top" Width="204" Height="22"/>
+        <!--DataGrid-->
+        <DataGrid  
+            Name="dgv_DS"
+            CanUserAddRows="False"
+            AutoGenerateColumns="False"
+            AlternatingRowBackground="AntiqueWhite"
+            Margin="31,158,56,104" SelectionChanged="dgv_DS_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã bệnh nhân" Binding="{Binding MaBn}" Width="130"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}" Width="150"/>
+                <DataGridTextColumn Header="Mã khoa" Binding="{Binding MaKhoa}" Width="130"/>
+                <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}" Width="130"/>
+                <DataGridTextColumn FontWeight="Bold" Header="Viện phí" Binding="{Binding VienPhi}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--Button-->
+        <Button x:Name="btn_Add" Content="Thêm" HorizontalAlignment="Left" Margin="179,363,0,0" VerticalAlignment="Top" Height="44" Width="159" Click="btn_Add_Click"/>
+        <Button x:Name="btn_Search" Content="Tìm" HorizontalAlignment="Left" Margin="419,363,0,0" VerticalAlignment="Top" Height="44" Width="158" Click="btn_Search_Click"/>
+    </Grid>
+</Window>

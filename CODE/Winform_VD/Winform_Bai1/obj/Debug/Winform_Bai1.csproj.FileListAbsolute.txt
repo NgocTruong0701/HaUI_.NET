@@ -1,0 +1,11 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\bin\Debug\Winform_Bai1.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\bin\Debug\Winform_Bai1.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\bin\Debug\Winform_Bai1.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\obj\Debug\Winform_Bai1.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\obj\Debug\Winform_Bai1.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\obj\Debug\Winform_Bai1.Form1.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\obj\Debug\Winform_Bai1.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\obj\Debug\Winform_Bai1.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\obj\Debug\Winform_Bai1.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\obj\Debug\Winform_Bai1.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Winform_Bai1\obj\Debug\Winform_Bai1.pdb

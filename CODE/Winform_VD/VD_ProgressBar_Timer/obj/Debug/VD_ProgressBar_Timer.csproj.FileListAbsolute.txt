@@ -1,0 +1,12 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\bin\Debug\VD_ProgressBar_Timer.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\bin\Debug\VD_ProgressBar_Timer.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\bin\Debug\VD_ProgressBar_Timer.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.Form1.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_ProgressBar_Timer\obj\Debug\VD_ProgressBar_Timer.Form2.resources

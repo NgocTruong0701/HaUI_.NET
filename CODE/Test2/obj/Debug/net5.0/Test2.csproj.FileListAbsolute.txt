@@ -1,0 +1,16 @@
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\bin\Debug\net5.0\Test2.exe
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\bin\Debug\net5.0\Test2.deps.json
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\bin\Debug\net5.0\Test2.runtimeconfig.json
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\bin\Debug\net5.0\Test2.runtimeconfig.dev.json
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\bin\Debug\net5.0\Test2.dll
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\bin\Debug\net5.0\ref\Test2.dll
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\bin\Debug\net5.0\Test2.pdb
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\Test2.csproj.AssemblyReference.cache
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\Test2.AssemblyInfoInputs.cache
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\Test2.AssemblyInfo.cs
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\Test2.csproj.CoreCompileInputs.cache
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\Test2.dll
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\ref\Test2.dll
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\Test2.pdb
+e:\Download\KiPhu_2\C#_.NET\CODE\Test2\obj\Debug\net5.0\Test2.genruntimeconfig.cache

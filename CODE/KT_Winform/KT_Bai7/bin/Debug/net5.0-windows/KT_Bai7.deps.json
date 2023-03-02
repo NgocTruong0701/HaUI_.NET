@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KT_Bai7/1.0.0": {
+        "runtime": {
+          "KT_Bai7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KT_Bai7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

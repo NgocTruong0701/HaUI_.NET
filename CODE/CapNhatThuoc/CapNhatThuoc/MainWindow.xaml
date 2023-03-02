@@ -1,0 +1,60 @@
+﻿<Window x:Name="capnhatthuoc" x:Class="CapNhatThuoc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CapNhatThuoc"
+        mc:Ignorable="d"
+        Title="Cập nhật thuốc" Height="600" Width="900"
+        FontFamily="Time New Roman" FontSize="14" Loaded="capnhatthuoc_Loaded" >
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="Button">
+                <Setter Property="OverridesDefaultStyle" Value="True"/>
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Grid>
+                                <Ellipse Fill="Blue"/>
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="Foreground" Value="red"/>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+        </Grid.Resources>
+        <Label Content="Mã thuốc:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="40,24,0,0"/>
+        <Label Content="Tên thuốc:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="40,64,0,0"/>
+        <Label Content="Loại thuốc:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="37,99,0,0"/>
+        <Label Content="Đơn giá:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="40,144,0,0"/>
+        <Label Content="Số lượng:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="40,188,0,0"/>
+        <TextBox x:Name="txtma" TextWrapping="Wrap" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="144,24,0,0"/>
+        <TextBox x:Name="txtten" TextWrapping="Wrap" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="144,64,0,0"/>
+        <TextBox x:Name="txtgia" TextWrapping="Wrap" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="144,144,0,0"/>
+        <TextBox x:Name="txtsl" TextWrapping="Wrap" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="144,188,0,0"/>
+        <ComboBox x:Name="cbxloai" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="200" Margin="144,99,0,0">
+            
+        </ComboBox>
+        <DataGrid x:Name="dt1" AutoGenerateColumns="False" AlternatingRowBackground="AntiqueWhite" CanUserAddRows="False" HorizontalAlignment="Left" VerticalAlignment="Top" Height="250" Width="900" Margin="0,253,0,0" SelectionChanged="dt1_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã thuốc" Binding="{Binding MaThuoc}" Width="120"/>
+                <DataGridTextColumn Header="Tên thuốc" Binding="{Binding TenThuoc}" Width="180"/>
+                <DataGridTextColumn Header="Loại thuốc" Binding="{Binding MaLoai}" Width="120"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}" Width="150"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding SoLuong}" Width="130"/>
+                <DataGridTextColumn Header="Thành tiền" Binding="{Binding ThanhTien}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="butthem" Content="Thêm" Height="30" Width="80" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="107,525,0,0" Click="butthem_Click"/>
+        <Button x:Name="butsua" Content="Sửa" Height="30" Width="80" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="248,524,0,0" Click="butsua_Click"/>
+        <Button x:Name="butxoa" Content="Xóa" Height="30" Width="80" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="399,525,0,0" Click="butxoa_Click"/>
+        <Button x:Name="buttim" Content="Tìm" Height="30" Width="80" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="549,525,0,0" Click="buttim_Click"/>
+        <Button x:Name="butthongke" Content="Thống kê" Height="30" Width="80" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="704,525,0,0" Click="butthongke_Click"/>
+    </Grid>
+</Window>

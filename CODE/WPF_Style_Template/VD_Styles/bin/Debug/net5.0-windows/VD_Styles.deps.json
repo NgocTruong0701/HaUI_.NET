@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VD_Styles/1.0.0": {
+        "runtime": {
+          "VD_Styles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VD_Styles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

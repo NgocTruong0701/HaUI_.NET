@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\bin\Debug\net5.0\Bai4.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\bin\Debug\net5.0\Bai4.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\bin\Debug\net5.0\Bai4.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\bin\Debug\net5.0\Bai4.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\bin\Debug\net5.0\Bai4.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\bin\Debug\net5.0\Bai4.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\Bai4.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\Bai4.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\Bai4.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\Bai4.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\Bai4.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\refint\Bai4.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\Bai4.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\Bai4.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Le_Ngoc_Truong\LeNgocTruong\Bai4\obj\Debug\net5.0\ref\Bai4.dll

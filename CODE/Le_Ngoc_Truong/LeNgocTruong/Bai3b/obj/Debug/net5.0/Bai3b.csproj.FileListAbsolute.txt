@@ -1,0 +1,16 @@
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\bin\Debug\net5.0\Bai3b.exe
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\bin\Debug\net5.0\Bai3b.deps.json
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\bin\Debug\net5.0\Bai3b.runtimeconfig.json
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\bin\Debug\net5.0\Bai3b.runtimeconfig.dev.json
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\bin\Debug\net5.0\Bai3b.dll
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\bin\Debug\net5.0\ref\Bai3b.dll
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\bin\Debug\net5.0\Bai3b.pdb
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\Bai3b.csproj.AssemblyReference.cache
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\Bai3b.GeneratedMSBuildEditorConfig.editorconfig
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\Bai3b.AssemblyInfoInputs.cache
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\Bai3b.AssemblyInfo.cs
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\Bai3b.csproj.CoreCompileInputs.cache
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\Bai3b.dll
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\ref\Bai3b.dll
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\Bai3b.pdb
+E:\Le_Ngoc_Truong\LeNgocTruong\Bai3b\obj\Debug\net5.0\Bai3b.genruntimeconfig.cache

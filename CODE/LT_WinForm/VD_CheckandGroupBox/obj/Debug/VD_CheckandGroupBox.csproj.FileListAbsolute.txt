@@ -1,0 +1,11 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\bin\Debug\VD_CheckandGroupBox.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\bin\Debug\VD_CheckandGroupBox.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\bin\Debug\VD_CheckandGroupBox.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\obj\Debug\VD_CheckandGroupBox.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\obj\Debug\VD_CheckandGroupBox.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\obj\Debug\VD_CheckandGroupBox.frms_Check_Group_Box.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\obj\Debug\VD_CheckandGroupBox.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\obj\Debug\VD_CheckandGroupBox.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\obj\Debug\VD_CheckandGroupBox.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\obj\Debug\VD_CheckandGroupBox.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_CheckandGroupBox\obj\Debug\VD_CheckandGroupBox.pdb

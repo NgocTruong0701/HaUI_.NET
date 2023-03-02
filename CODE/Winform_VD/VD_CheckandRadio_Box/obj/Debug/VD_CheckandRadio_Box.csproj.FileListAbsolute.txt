@@ -1,0 +1,11 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\bin\Debug\VD_CheckandRadio_Box.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\bin\Debug\VD_CheckandRadio_Box.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\bin\Debug\VD_CheckandRadio_Box.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\obj\Debug\VD_CheckandRadio_Box.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\obj\Debug\VD_CheckandRadio_Box.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\obj\Debug\VD_CheckandRadio_Box.frm_check_radio.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\obj\Debug\VD_CheckandRadio_Box.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\obj\Debug\VD_CheckandRadio_Box.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\obj\Debug\VD_CheckandRadio_Box.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\obj\Debug\VD_CheckandRadio_Box.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\VD_CheckandRadio_Box\obj\Debug\VD_CheckandRadio_Box.pdb

@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\bin\Debug\net5.0\Bai1.1.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\bin\Debug\net5.0\Bai1.1.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\bin\Debug\net5.0\Bai1.1.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\bin\Debug\net5.0\Bai1.1.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\bin\Debug\net5.0\Bai1.1.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\bin\Debug\net5.0\Bai1.1.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\Bai1.1.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\Bai1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\Bai1.1.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\Bai1.1.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\Bai1.1.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\Bai1.1.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\refint\Bai1.1.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\Bai1.1.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\Bai1.1.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai1\Bai1.1\obj\Debug\net5.0\ref\Bai1.1.dll

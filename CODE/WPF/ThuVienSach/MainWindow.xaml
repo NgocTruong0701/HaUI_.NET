@@ -1,0 +1,43 @@
+﻿<Window x:Class="ThuVienSach.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ThuVienSach"
+        mc:Ignorable="d"
+        Title="Chọn sách" Height="450" Width="800" FontFamily="TimeNewRoman" FontSize="15" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <!--Label-->
+        <Label Content="Danh sách" HorizontalAlignment="Left" Margin="40,34,0,0" VerticalAlignment="Top" Height="40" Width="79" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.024"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Sách đã chọn" HorizontalAlignment="Left" Margin="476,34,0,0" VerticalAlignment="Top" Height="40" Width="108"/>
+
+
+
+        <!--ListBox-->
+        <ListBox   x:Name="lst_DanhSachSource" Margin="10,90,488,10" SelectionMode="Multiple">
+            
+        </ListBox>
+        <ListBox x:Name="lst_DanhSachChon" Margin="476,90,10,10" SelectionMode="Multiple"/>
+
+        <!--Button-->
+        <Button x:Name="btn_Add1" Content="&gt;" HorizontalAlignment="Center" Margin="0,112,0,0" VerticalAlignment="Top" Height="38" Width="96" Click="btn_Add1_Click"/>
+        <Button x:Name="btn_AddN" Content="&gt;&gt;" HorizontalAlignment="Center" Margin="0,155,0,0" VerticalAlignment="Top" Height="38" Width="96" Click="btn_AddN_Click"/>
+        <Button x:Name="btn_AddAll" Content="&gt;&gt;&gt;" HorizontalAlignment="Center" VerticalAlignment="Center" Height="38" Width="96" Click="btn_AddAll_Click"/>
+        <Button x:Name="bnt_Remove1" Content="&lt;" HorizontalAlignment="Center" Margin="0,276,0,0" VerticalAlignment="Top" Height="38" Width="96" Click="bnt_Remove1_Click"/>
+        <Button x:Name="btn_RemoveN" Content="&lt;&lt;" HorizontalAlignment="Center" Margin="0,319,0,0" VerticalAlignment="Top" Height="38" Width="96" Click="btn_RemoveN_Click"/>
+        <Button x:Name="btn_RemoveAll" Content="&lt;&lt;&lt;" HorizontalAlignment="Center" Margin="0,362,0,0" VerticalAlignment="Top" Height="38" Width="96" Click="btn_RemoveAll_Click"/>
+    </Grid>
+</Window>

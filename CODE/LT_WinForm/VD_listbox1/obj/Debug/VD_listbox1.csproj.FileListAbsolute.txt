@@ -1,0 +1,11 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\bin\Debug\VD_listbox1.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\bin\Debug\VD_listbox1.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\bin\Debug\VD_listbox1.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\obj\Debug\VD_listbox1.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\obj\Debug\VD_listbox1.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\obj\Debug\VD_listbox1.Form_List_Box.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\obj\Debug\VD_listbox1.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\obj\Debug\VD_listbox1.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\obj\Debug\VD_listbox1.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\obj\Debug\VD_listbox1.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\LT_WinForm\VD_listbox1\obj\Debug\VD_listbox1.pdb

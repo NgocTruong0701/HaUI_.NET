@@ -1,0 +1,16 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\bin\Debug\net5.0\Chuoi.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\bin\Debug\net5.0\Chuoi.deps.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\bin\Debug\net5.0\Chuoi.runtimeconfig.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\bin\Debug\net5.0\Chuoi.runtimeconfig.dev.json
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\bin\Debug\net5.0\Chuoi.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\bin\Debug\net5.0\Chuoi.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\Chuoi.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\Chuoi.AssemblyInfoInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\Chuoi.AssemblyInfo.cs
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\Chuoi.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\Chuoi.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\refint\Chuoi.dll
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\Chuoi.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\Chuoi.genruntimeconfig.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Bai_2_After\Chuoi\obj\Debug\net5.0\ref\Chuoi.dll

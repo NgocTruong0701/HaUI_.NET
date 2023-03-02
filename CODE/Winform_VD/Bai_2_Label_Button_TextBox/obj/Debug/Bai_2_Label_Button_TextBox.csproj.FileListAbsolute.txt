@@ -1,0 +1,11 @@
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\bin\Debug\Bai_2_Label_Button_TextBox.exe.config
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\bin\Debug\Bai_2_Label_Button_TextBox.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\bin\Debug\Bai_2_Label_Button_TextBox.pdb
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\obj\Debug\Bai_2_Label_Button_TextBox.csproj.AssemblyReference.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\obj\Debug\Bai_2_Label_Button_TextBox.csproj.SuggestedBindingRedirects.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\obj\Debug\Bai_2_Label_Button_TextBox.Label_Button_TextBox.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\obj\Debug\Bai_2_Label_Button_TextBox.Properties.Resources.resources
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\obj\Debug\Bai_2_Label_Button_TextBox.csproj.GenerateResource.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\obj\Debug\Bai_2_Label_Button_TextBox.csproj.CoreCompileInputs.cache
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\obj\Debug\Bai_2_Label_Button_TextBox.exe
+E:\Download\KiPhu_2\C#_.NET\CODE\Winform_VD\Bai_2_Label_Button_TextBox\obj\Debug\Bai_2_Label_Button_TextBox.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_OnTap1", "WPF_OnTap1\WPF_OnTap1.csproj", "{AAD08F91-4B71-457A-9071-177897E62F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD08F91-4B71-457A-9071-177897E62F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD08F91-4B71-457A-9071-177897E62F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD08F91-4B71-457A-9071-177897E62F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD08F91-4B71-457A-9071-177897E62F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E52FFF-1CEA-48C2-BA4C-D8C721E07847}
+	EndGlobalSection
+EndGlobal
